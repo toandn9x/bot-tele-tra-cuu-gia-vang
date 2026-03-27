@@ -40,7 +40,7 @@ SERVICES: List[ProviderConfig] = [
 ]
 
 # Token Bot (Cần điền vào đây)
-TELEGRAM_BOT_TOKEN = "8391755278:AAHu7aUiUP2NnVSH5fWA4IDNQb3e6BjClOA"
+TELEGRAM_BOT_TOKEN = ""
 
 # Thông tin tác giả và Donate
 AUTHOR_INFO = "👨‍💻 **Tác giả:** Toandn"
